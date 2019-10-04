@@ -1,8 +1,5 @@
 # 05__TEAM
 Best Team Ever
 
-
-
-This is a test
-
+04.10.2019
 The latest Version of our powerpoint presentation became uploaded.
