@@ -1,0 +1,27 @@
+Notizen: Skype Call 10.11.2019
+---------------------------------------------------
+
+- Powerpoint chat --> Mittwoch
+- User Test --> Mittwoch
+
+--> Impact mapping oder Content diskussion
+
+--> Deliverables:
+- Report 1 Seite --> Wie stimmuliert er active learning
+- Impact Mapping
+- Test Evaluation
+- Chatbot (Powerpoint)
+
+To - Do:
+- Powerpoint --> Celia, Franck (Bis Mittwoch 13.11.)
+- Test Evaluation (beinhalte die interview fragen) --> Celia & Chris (Erstellung der Evaluation & Durchführung), Franck (Erstellung der Evaluation) Bis Mittwoch 13.11.
+- Trello updaten --> Chris, Simon (21.11.)
+- GitHub updaten --> Chris, Simon (21.11.)
+- Zusammenfassung von Active Learning mit bezug auf Chatbot (Warum der Chatbot relevant ist) --> Chris, Simon (21.11.)
+- Impact Mapping --> Celia, Franck, Chris (21.11.)
+- Report --> Simon (21.11.)
+
+------------------------ Out of Topic --------------------------------------------------
+
+Babok Prüfung:
+- Strategy analysis & Requirements Life Cycle --> jeweils 20 Fragen 
